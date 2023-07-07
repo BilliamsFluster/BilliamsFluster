@@ -3,7 +3,7 @@
 ![MasterHead](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm William Wapniarek 👨‍💻
-## 🎮 A Passionate Game Engine and Game Programmer 🕹️
+## 🎮 A Passionate Game Engine and Gameplay Programmer 🕹️
 ![](https://komarev.com/ghpvc/?username=billiamsfluster&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
@@ -14,16 +14,26 @@
 - 💻 Programming
 - 🏋️‍♂️ Powerlifting
   
-
 ---
 
-### 👾 About Me:
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-<img align="right" alt="Coding" width="300" style="border-radius: 15px;" src="https://cdn.dribbble.com/users/1299339/screenshots/8066902/media/ccbb49a1f92531a2e045c5e1b723d27f.gif">
+### 👾 About Me:
 
 - 🔭 **Currently Working On:** [Blu Engine](#)  
 - 🌱 **Continuously Learning:** Game Engine Programming  
 - 📫 **How to Reach Me:** [LinkedIn](https://linkedin.com/in/williamwapniarek/)  
+
+</td>
+    <td valign="top" width="50%">
+
+<img align="right" alt="Coding" width="300" style="border-radius: 15px;" src="https://cdn.dribbble.com/users/1299339/screenshots/8066902/media/ccbb49a1f92531a2e045c5e1b723d27f.gif">
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -52,7 +62,7 @@
 
 ---
 
-### 📈 My GitHub Stats:
+### 📈 GitHub Stats:
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=billiamsfluster&show_icons=true&locale=en" alt="billiamsfluster" />
@@ -65,6 +75,5 @@
 </div>
 
 ---
-
 
 </div>
