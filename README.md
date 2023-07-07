@@ -19,7 +19,7 @@
 
 ### 👾 About Me:
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1299339/screenshots/8066902/media/ccbb49a1f92531a2e045c5e1b723d27f.gif">
+<img align="right" alt="Coding" width="300" style="border-radius: 15px;" src="https://cdn.dribbble.com/users/1299339/screenshots/8066902/media/ccbb49a1f92531a2e045c5e1b723d27f.gif">
 
 - 🔭 **Currently Working On:** [Blu Engine](#)  
 - 🌱 **Continuously Learning:** Game Engine Programming  
