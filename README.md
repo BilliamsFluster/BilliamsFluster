@@ -3,16 +3,16 @@
 ![MasterHead](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm William Wapniarek 👨‍💻
-## 🎮 A Passionate Game Engine and Gameplay Programmer 🕹️
+## 🎮 Game Engine and Gameplay Programmer 🕹️
 ![](https://komarev.com/ghpvc/?username=billiamsfluster&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-<h3>📌 My Interests:</h3>
+<h3>📌Interests:</h3>
 
 - 🕹️ Game Development
 - 💻 Programming
-- 🏋️‍♂️ Powerlifting
+- 🏋️‍♂️ Olympic Lifting
   
 ---
 
@@ -24,7 +24,8 @@
 
 - 🔭 **Currently Working On:** [Blu Engine](#)  
 - 🌱 **Continuously Learning:** Game Engine Programming  
-- 📫 **How to Reach Me:** [LinkedIn](https://linkedin.com/in/williamwapniarek/)  
+- 📫 **How to Reach Me:** [LinkedIn](https://linkedin.com/in/williamwapniarek/)
+-  **Portfolio:** [Website Portfolio](https://bwap.netlify.app/) 
 
 </td>
     <td valign="top" width="50%">
