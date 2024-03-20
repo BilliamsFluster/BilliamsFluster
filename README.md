@@ -11,6 +11,7 @@
 <h3>📌Interests:</h3>
 
 - 🕹️ Game Development
+- Front-End Development
 - 💻 Programming
 - 🏋️‍♂️ Olympic Lifting
   
