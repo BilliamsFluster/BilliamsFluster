@@ -3,7 +3,7 @@
 ![MasterHead](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm William Wapniarek 👨‍💻
-## 🎮 Game Engine and Gameplay Programmer 🕹️
+## 🎮 Gameplay Programmer and Front-End Developer 🕹️
 ![](https://komarev.com/ghpvc/?username=billiamsfluster&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
